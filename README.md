@@ -26,3 +26,14 @@ well here again
 cat r-file  | R --vanilla;  
 
 ```
+
+``
+R home 
+http://www.r-project.org/
+``
+
+
+``
+R downloads 
+http://cran.r-project.org/mirrors.html
+``
